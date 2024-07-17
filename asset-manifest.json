@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/carreiras/static/css/main.7c8bf541.css",
+    "main.js": "/carreiras/static/js/main.dc499ddf.js",
+    "static/js/453.e965a907.chunk.js": "/carreiras/static/js/453.e965a907.chunk.js",
+    "static/media/Mapa.png": "/carreiras/static/media/Mapa.c10ab206d5105f1a23cd.png",
+    "static/media/Provas.png": "/carreiras/static/media/Provas.07c33ac79307df9e4c18.png",
+    "static/media/fuvest_logo_2017_rgb_branco.png": "/carreiras/static/media/fuvest_logo_2017_rgb_branco.798aacc6298a13e80232.png",
+    "static/media/Vagas.png": "/carreiras/static/media/Vagas.8ef8f154861586a188b4.png",
+    "static/media/Periodos.png": "/carreiras/static/media/Periodos.006cbcf21895a3e892f4.png",
+    "index.html": "/carreiras/index.html",
+    "static/media/stamp.svg": "/carreiras/static/media/stamp.1089f62120d99d58c8343e6305bc247d.svg",
+    "main.7c8bf541.css.map": "/carreiras/static/css/main.7c8bf541.css.map",
+    "main.dc499ddf.js.map": "/carreiras/static/js/main.dc499ddf.js.map",
+    "453.e965a907.chunk.js.map": "/carreiras/static/js/453.e965a907.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c8bf541.css",
+    "static/js/main.dc499ddf.js"
+  ]
+}
